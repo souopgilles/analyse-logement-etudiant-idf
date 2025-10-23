@@ -1,10 +1,14 @@
 Pour utiliser ce projet, téléchargez les fichiers suivants et placez-les dans le même répertoire que les notebooks :
 
-* Demandes de valeurs foncières géolocalisées (DVF)** : [Télécharger](https://www.data.gouv.fr/datasets/demandes-de-valeurs-foncieres-geolocalisees/) → `Demandes_de_valeurs_foncieres_geolocalisees.csv**
+* Demandes de valeurs foncières géolocalisées (DVF)** :
+[Télécharger](https://www.data.gouv.fr/datasets/demandes-de-valeurs-foncieres-geolocalisees/) → `Demandes_de_valeurs_foncieres_geolocalisees.csv**
 
-* Population par âge et sexe (INSEE)** : [Télécharger](https://www.insee.fr/fr/statistiques/2012692) → `population_par_sexe_age.xlsx`
+* Population par âge et sexe (INSEE)** :
+[Télécharger](https://www.insee.fr/fr/statistiques/2012692) → `population_par_sexe_age.xlsx`
 
-* Effectifs d'étudiants par établissement (MESR)** : [Télécharger](https://www.data.gouv.fr/datasets/effectifs-detudiants-inscrits-dans-les-etablissements-et-les-formations-de-lenseignement-superieur-detail-par-etablissements) → `Effectifs_etudiants_par_etablissements.csv`
+* Effectifs d'étudiants par établissement (MESR)** :
+[Télécharger](https://www.data.gouv.fr/datasets/effectifs-detudiants-inscrits-dans-les-etablissements-et-les-formations-de-lenseignement-superieur-detail-par-etablissements) → `Effectifs_etudiants_par_etablissements.csv`
 
-* Indicateurs de loyers (2 pièces) par commune** : [Télécharger](https://www.data.gouv.fr/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2023/#/resources/edadefbc-9707-45ef-a841-283608709e58) → `Indicateurs_de_loyers_annonce_par_commune_2.csv`
+* Indicateurs de loyers (2 pièces) par commune** :
+[Télécharger](https://www.data.gouv.fr/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2023/#/resources/edadefbc-9707-45ef-a841-283608709e58) → `Indicateurs_de_loyers_annonce_par_commune_2.csv`
 
