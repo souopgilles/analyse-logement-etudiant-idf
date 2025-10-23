@@ -1,6 +1,6 @@
 L'analyse s'est déroulée en trois phases principales, correspondant aux notebooks présents dans ce dépôt :
 
-Étape 1 : Nettoyage et Préparation des Données
+##Étape 1 : Nettoyage et Préparation des Données
 (Voir le notebook : 01_nettoyage_donnees.ipynb)
 
 Importation des différentes sources de données.
