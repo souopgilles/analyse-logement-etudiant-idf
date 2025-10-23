@@ -1,7 +1,7 @@
 L'analyse s'est déroulée en trois phases principales, correspondant aux notebooks présents dans ce dépôt :
 
-##Étape 1 : Nettoyage et Préparation des Données
-(Voir le notebook : 01_nettoyage_donnees.ipynb)
+# Étape 1 : Nettoyage et Préparation des Données
+## (Voir le notebook : 01_nettoyage_donnees.ipynb)
 
 Importation des différentes sources de données.
 
@@ -11,8 +11,8 @@ Fusion des jeux de données (ex: agrégation des transactions immobilières par 
 
 Création d'un jeu de données unique et propre au niveau communal.
 
-Étape 2 : Feature Engineering et Création d'Indicateurs
-(Voir le notebook : )
+# Étape 2 : Feature Engineering et Création d'Indicateurs
+## (Voir le notebook : 02_indicateurs_crous.ipynb)
 
 Création d'un indicateur de tension immobilière (Demande / Offre).
 
@@ -22,8 +22,8 @@ Calcul du prix moyen au m² et de son évolution annuelle.
 
 Intégration du revenu médian des ménages.
 
-Étape 3 : Analyse, Visualisation et Recommandations
-(Voir le notebook : )
+# Étape 3 : Analyse, Visualisation et Recommandations
+## (Voir le notebook : 03_visualisation_analysevf.ipynb)
 
 Analyse exploratoire des données (EDA) pour comprendre les corrélations.
 
